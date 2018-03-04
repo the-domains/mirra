@@ -1,0 +1,29 @@
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.30309991841204464
+  lightness: 0.7267496234271675
+  saturation: 0.306644449243322
+  rhythmicContrast: 0.9304127003997564
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Mirra
+layout_spectrum: 0.6819362703245133
+typography_spectrum: 0.3573145268019289
+content: []
+title: MIRRA
+description: ''
+url: 'http://xn--mrra-vpa.com/'
+logo: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/58d9c5b3-49c1-4943-9f12-a2405ead311d.jpg
+github: true
